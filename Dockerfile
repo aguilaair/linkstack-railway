@@ -1,0 +1,1 @@
+FROM linkstackorg/linkstack:latest
